@@ -7,7 +7,7 @@ This is a Streamlit app that tracks your OpenAI usage and billing live.
 Clone the repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/yourusername/openai-usage-tracker.git
+git clone https://github.com/eriosta/bills.git
 cd openai-usage-tracker
 ```
 
